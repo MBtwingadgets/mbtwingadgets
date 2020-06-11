@@ -36,3 +36,12 @@ p.trusted {
 	font-weight: bold;
 }
 
+
+.background-image-container {
+	background-image: url('./images/background-01.jpg')  ;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
