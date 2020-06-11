@@ -1,0 +1,38 @@
+.buffer {
+	height: 15rem;
+}
+
+.white-text-container h1 {
+	color: yellow;
+	text-shadow: 2px 2px 8px #0f43c6;
+}
+
+.white-text-container h1:hover {
+
+}
+
+/*.white-text-container p {
+		color: yellow;
+	text-shadow: 2px 2px 8px #0f43c6;
+	font-weight: bold; 
+}*/
+
+.buffer2 {
+	height: 5rem;
+}
+
+
+.buffer3 {
+	height: 20rem;
+}
+
+h1 {
+	font-size: 10rem;
+}
+
+p.trusted {
+
+	color: white;
+	font-weight: bold;
+}
+
